@@ -1,0 +1,243 @@
+#: locale=zh
+
+## Action
+
+### URL
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+
+## E-Learning
+
+### Answer
+questionOption_458F8041_62B8_DC2A_41D4_3C9BB7626936.text = 以上皆是
+questionOption_46DEBE41_62B8_E42A_41BC_CD4C1EA72502.text = 以上皆是
+questionOption_46A58BBB_62B8_EC5F_41A7_798BBC515622.text = 健康平安
+questionOption_41AB0951_62B8_EC2A_41D3_35C9B9F31248.text = 光明燈
+questionOption_45952219_6287_DC5B_41D5_923E2C047E22.text = 前年
+questionOption_4A82AC78_6289_E4DA_4198_FE404B07500C.text = 南區
+questionOption_4A8F4FB8_6289_E45A_41AD_FD61A3A0111A.text = 南屯區
+questionOption_447B6AA1_62B8_EC6A_41C6_71FF61768E60.text = 培植福德
+questionOption_405844DB_6288_25DF_41D5_F379F044D8C0.text = 天上聖母
+questionOption_41EFCECA_62B8_E439_41D7_DA27A7B27A8B.text = 太歲燈
+questionOption_46889B22_62B8_2C6E_41C3_F845F62FA93C.text = 學業
+questionOption_45E5A511_6287_E42A_41D7_ED7477387738.text = 後年
+questionOption_41F92A72_62B8_ECE9_41B1_EE49C20A0F46.text = 文昌燈
+questionOption_46BF5AFA_62B8_EDDE_41B1_BFA4D45700F8.text = 消災解厄
+questionOption_45BDB0F8_6287_DDDA_41D0_652D8EC30E71.text = 當年
+questionOption_4181A1EA_6288_3FFE_41BD_C034A8E93B1A.text = 神農大帝
+questionOption_44624C49_62B8_E43B_41D8_A69106CDA3F8.text = 福氣綿延
+questionOption_427ABB4B_6288_EC3E_419B_2D0C9E89D031.text = 第一級
+questionOption_43A39183_6288_FC2F_41BB_E54FEA6F0C25.text = 第三級
+questionOption_43B34E4B_6288_E43E_41D7_AF81B13EBCD3.text = 第二級
+questionOption_4544D959_6289_ECDA_41CC_4B3B94999DDA.text = 西區
+questionOption_46B3ABD2_62B8_2C2E_41D6_A6211E64EA2F.text = 農業
+questionOption_46A80E9A_62B8_245E_41B6_FFBDA1C77A4D.text = 醫學
+questionOption_4194B7B2_6288_246E_41D8_84C3A465CD87.text = 關聖帝君
+
+### Question
+question_46BBD22D_62B8_7C7A_41BB_575232B85D29.title = 學生會點什麼燈祈求學業進步?
+question_47799E00_62B8_242A_41D4_CD638662EFF9.title = 請問安奉太歲在哪一年點燈?
+question_41BEB082_62B8_5C2E_41B3_D8774150E548.title = 請問文昌帝君掌管甚麼? \
+
+question_46C380A3_62B8_5C6E_41C7_CC7855EC2250.title = 請問植福斗是為祈求?
+question_4B001765_6288_24EA_41D7_57ECD20A826B.title = 請問萬和宮在台中哪一區?
+question_43DE7CEA_6288_E5FE_41C2_127B7F513CB4.title = 請問萬和宮是國家第幾級古蹟?
+question_47D03DA7_6288_6477_41D1_A2D3F4D8C24A.title = 請問萬和宮的主神是?
+question_418BDA49_62B9_EC3A_41BB_19484AE788DB.title = 請問點光明燈可以祈求? \
+
+
+### Question Screen
+quizQuestion_425AC9D6_6288_6FD6_41D8_951F459B21BB.ok = OK
+
+### Report Screen
+quizScore_425CF9D6_6288_6FD6_41D4_D68E68F3B47A.title = - SCORE -
+quizScore_425CF9D6_6288_6FD6_41D4_D68E68F3B47A.completion = Completed
+quizScore_425CF9D6_6288_6FD6_41D4_D68E68F3B47A.questionsCorrect = Correct
+quizScore_425CF9D6_6288_6FD6_41D4_D68E68F3B47A.downloadCSV = Download .csv
+quizScore_425CF9D6_6288_6FD6_41D4_D68E68F3B47A.questionsIncorrect = Incorrect
+quizScore_425CF9D6_6288_6FD6_41D4_D68E68F3B47A.items = Items Found
+quizScore_425CF9D6_6288_6FD6_41D4_D68E68F3B47A.questions = Questions
+quizScore_425CF9D6_6288_6FD6_41D4_D68E68F3B47A.repeat = Repeat
+quizScore_425CF9D6_6288_6FD6_41D4_D68E68F3B47A.submitToLMS = Submit
+quizScore_425CF9D6_6288_6FD6_41D4_D68E68F3B47A.elapsedTime = Time
+
+### Score Name
+score1.label = Score 1
+
+### Timeout Screen
+quizTimeout_425AC9D6_6288_6FD6_41CC_1FB466D2E19E.title = - TIMEOUT -
+quizTimeout_425AC9D6_6288_6FD6_41CC_1FB466D2E19E.repeat = Repeat
+quizTimeout_425AC9D6_6288_6FD6_41CC_1FB466D2E19E.score = View Score
+
+## Media
+
+### Floorplan
+
+### Image
+imlevel_8DF4CD82_CEAB_D0A3_41E8_AC7A883FADB6.url = media/map_72539235_6278_DC6A_41C9_43F9ECF8DDEB_zh_0.jpg
+imlevel_8DF4DD82_CEAB_D0A3_41D4_EBE0972B101E.url = media/map_72539235_6278_DC6A_41C9_43F9ECF8DDEB_zh_1.jpg
+imlevel_8DF4AD82_CEAB_D0A3_41E1_A3E19A03CAE8.url = media/map_72539235_6278_DC6A_41C9_43F9ECF8DDEB_zh_2.jpg
+imlevel_8DF4BD82_CEAB_D0A3_41CC_8FC4ABF1D5E8.url = media/map_72539235_6278_DC6A_41C9_43F9ECF8DDEB_zh_3.jpg
+imlevel_E08BA1B0_CEE9_B0FE_41DA_FC17EBC3534F.url = media/popup_EFA1D3B0_CEB9_50FE_41DA_8AAF7E68F0C8_zh_0_0.jpg
+imlevel_E08AA1B1_CEE9_B0FE_41E7_3AD192D1AD4C.url = media/popup_EFA1D3B0_CEB9_50FE_41DA_8AAF7E68F0C8_zh_0_1.jpg
+imlevel_E08A91B1_CEE9_B0FE_41DA_C2F3DC4936D4.url = media/popup_EFA1D3B0_CEB9_50FE_41DA_8AAF7E68F0C8_zh_0_2.jpg
+imlevel_8DA3B06B_CEAB_B061_41D5_3CE4B7D86B89.url = media/zoomImage_F809CFF3_CE97_5061_41D5_638A80A0F788_zh_0_0.png
+imlevel_8DA3A06B_CEAB_B061_41D1_C4F1C4B466DE.url = media/zoomImage_F809CFF3_CE97_5061_41D5_638A80A0F788_zh_0_1.png
+imlevel_8DA1B06C_CEAB_B067_41DD_DD5720FCBA11.url = media/zoomImage_F809CFF3_CE97_5061_41D5_638A80A0F788_zh_0_2.png
+imlevel_8DA1906C_CEAB_B067_41E4_0894B5A8A4F8.url = media/zoomImage_F809CFF3_CE97_5061_41D5_638A80A0F788_zh_0_3.png
+imlevel_8DA1806C_CEAB_B067_41E4_86A7DAA0BA83.url = media/zoomImage_F809CFF3_CE97_5061_41D5_638A80A0F788_zh_0_4.png
+imlevel_8DA3107B_CEAB_B061_41E1_3E1B6C21D797.url = media/zoomImage_F9835659_CE99_B3A1_41DA_E131CC46CCC9_zh_0_0.png
+imlevel_8DA3007B_CEAB_B061_41E7_02A60C6042BE.url = media/zoomImage_F9835659_CE99_B3A1_41DA_E131CC46CCC9_zh_0_1.png
+imlevel_8DA3E07B_CEAB_B061_41CB_BC9E119FF6F3.url = media/zoomImage_F9835659_CE99_B3A1_41DA_E131CC46CCC9_zh_0_2.png
+
+### Popup Image
+
+### Title
+panorama_3023E093_3E76_CB1B_41C9_AD5B7EC4D7E8.label = 10
+panorama_30236F2C_3E76_D50D_41C2_2C4AF70EBE99.label = 13-2改
+panorama_302353DE_3E76_CD0D_41B1_498B8797D5EA.label = 13改
+panorama_3020BE00_3E76_F6F5_41A1_25206DCE78A0.label = 14改-2
+panorama_3020C2AF_3E76_CF0B_41AF_521925D89469.label = 16
+panorama_3020C7AD_3E76_D50F_41CD_6A7C5A31F9FF.label = 17
+panorama_30203CD9_3E76_DB17_41A0_2320975AEB15.label = 19太歲
+panorama_33EC9C46_3E79_FB7D_41C4_6782DC88FAAF.label = 1廟宇清2
+panorama_302011E7_3E76_CD3C_41B1_A7B802B7018B.label = 20
+panorama_3021A7A1_3E76_3537_41CD_78A23FFE9CA9.label = 22
+panorama_3021BCB5_3E76_3B1F_41A1_849A97EEE761.label = 24
+panorama_302141F8_3E76_4D15_41A6_958AA3A362AC.label = 25關
+panorama_302177BB_3E76_550B_41A7_AF40FFE16D67.label = 26
+panorama_30212C8D_3E76_5B0F_41CD_1E747B142D01.label = 27改
+panorama_30210127_3E76_4D3B_41C2_09C14A808D3B.label = 28
+panorama_301EF63A_3E76_7715_41BB_6768D6B436E7.label = 29
+panorama_A55101EF_AA99_4136_41C3_8FB0C60CE1CD.label = 29改
+panorama_301ECB59_3E76_7D17_41C4_AB6FC9B8F9E9.label = 30
+panorama_301E009E_3E76_4B0D_41C1_086B624DE334.label = 32
+panorama_301E556F_3E76_550B_41C9_A8CD75D56E58.label = 33
+panorama_301FFA75_3E76_5F1F_41B2_B6F74D4118B4.label = 35
+panorama_301FCFC5_3E76_557F_41A8_B70799ECA7D1.label = 37文昌
+panorama_301F99C2_3E76_3D75_41C9_544E0EA5D341.label = 40
+panorama_301F5EE7_3E76_373B_41A4_FD46EACD3AE5.label = 41
+panorama_301EE431_3E77_CB17_41A5_3E4FB30B5741.label = 42 2
+panorama_301D2E49_3E77_D777_41B3_7B65E7974F96.label = 43
+panorama_5B53A6EC_48B9_94E8_41CA_C7F2F16B39CB.label = 5廟外
+panorama_3021F140_3E76_4D75_41B1_6E2E16600A2A.label = 6改
+panorama_302585FD_3E76_350F_4190_59616099F8D9.label = 7
+panorama_3022AAEF_3E76_3F0B_419D_8DE6B53968CF.label = 8
+photo_FDF09197_CEEA_D0A2_41D5_8D5042DD770F.label = IMG_9756
+photo_FDF09197_CEEA_D0A2_41D5_8D5042DD770F.label = IMG_9756
+photo_E500E721_CE97_519E_41E7_13F4192AA13F.label = IMG_9756 3
+photo_E500E721_CE97_519E_41E7_13F4192AA13F.label = IMG_9756 3
+album_53CEAC00_48C9_FB18_41C7_AA72A5ABE7E4_0.label = LINE_ALBUM_萬和宮_220725
+album_53CEAC00_48C9_FB18_41C7_AA72A5ABE7E4.label = Photo Album LINE_ALBUM_萬和宮_220725
+video_B080FFB1_AAE9_412A_41D3_91C43F59BB57.label = 光明燈
+album_53CEAC00_48C9_FB18_41C7_AA72A5ABE7E4_1.label = 太歲
+photo_51473B7D_48DE_796A_41A5_8642CC124CFB.label = 太歲
+album_53CEAC00_48C9_FB18_41C7_AA72A5ABE7E4_6.label = 截圖 2024-11-12 上午10.51.32
+album_53CEAC00_48C9_FB18_41C7_AA72A5ABE7E4_2.label = 文昌
+photo_54EA241F_6288_E456_41C2_365A4832FB40.label = 文昌
+photo_FB299D3C_CEEF_51E6_41E1_5094EF67A24A.label = 未命名的作品3
+photo_FB299D3C_CEEF_51E6_41E1_5094EF67A24A.label = 未命名的作品3
+album_53CEAC00_48C9_FB18_41C7_AA72A5ABE7E4_4.label = 研究會議拷貝2
+map_72539235_6278_DC6A_41C9_43F9ECF8DDEB.label = 研究會議拷貝2
+album_53CEAC00_48C9_FB18_41C7_AA72A5ABE7E4_5.label = 神農
+photo_535A2E95_6298_242A_41A0_0A29615ADEA3.label = 神農
+photo_4C75D3D2_6298_7C2E_41B0_4FC448326B48.label = 福蔭全臺
+album_53CEAC00_48C9_FB18_41C7_AA72A5ABE7E4_7.label = 福蔭全臺
+album_53CEAC00_48C9_FB18_41C7_AA72A5ABE7E4_3.label = 老二媽
+video_C1666A5C_CE99_53A6_41E1_D71B427A27CE.label = 萬和宮
+video_C1249C41_CE99_579E_41D6_99A97F7EA5AA.label = 萬和宮2
+video_C123CE41_CE99_539E_41E2_40AFDDAC4C4D.label = 萬和宮3
+photo_56FC14DE_6298_25D6_41D1_CA36B8EB1E3F.label = 觀音
+album_53CEAC00_48C9_FB18_41C7_AA72A5ABE7E4_11.label = 觀音
+album_53CEAC00_48C9_FB18_41C7_AA72A5ABE7E4_10.label = 關公
+photo_5E0E8F98_48D6_19A9_41BA_654102BB5DE9.label = 關公
+photo_5FECFA63_48CB_BF1F_41CC_96868574E1E3.label = 鳳
+album_53CEAC00_48C9_FB18_41C7_AA72A5ABE7E4_8.label = 鳳
+album_53CEAC00_48C9_FB18_41C7_AA72A5ABE7E4_9.label = 龍馬負河圖
+photo_50DD00E7_48C8_EB18_41C6_0A21D05DC454.label = 龍馬負河圖
+
+### Video
+videolevel_8D8E6F35_CEA9_51E1_41E3_8CB270C2657F.posterURL = media/video_B080FFB1_AAE9_412A_41D3_91C43F59BB57_poster_zh.jpg
+videolevel_8DA209DD_CEA9_50A6_41E8_D6B39D6A6BDE.posterURL = media/video_B080FFB1_AAE9_412A_41D3_91C43F59BB57_poster_zh.jpg
+videolevel_8DA209DD_CEA9_50A6_41E8_D6B39D6A6BDE.url = media/video_B080FFB1_AAE9_412A_41D3_91C43F59BB57_zh.m3u8
+videolevel_8D8E6F35_CEA9_51E1_41E3_8CB270C2657F.url = media/video_B080FFB1_AAE9_412A_41D3_91C43F59BB57_zh.mp4
+videolevel_8DE93D14_CEAB_D1A6_41D0_1F1BE1BFB89B.posterURL = media/video_C123CE41_CE99_539E_41E2_40AFDDAC4C4D_poster_zh.jpg
+videolevel_8E43574D_CEAA_B1A1_41B3_389A96884792.posterURL = media/video_C123CE41_CE99_539E_41E2_40AFDDAC4C4D_poster_zh.jpg
+videolevel_8E43574D_CEAA_B1A1_41B3_389A96884792.url = media/video_C123CE41_CE99_539E_41E2_40AFDDAC4C4D_zh.m3u8
+videolevel_8DE93D14_CEAB_D1A6_41D0_1F1BE1BFB89B.url = media/video_C123CE41_CE99_539E_41E2_40AFDDAC4C4D_zh.mp4
+videolevel_8A82E7C3_CEAA_B0A2_418B_3C6A41A31143.posterURL = media/video_C1249C41_CE99_579E_41D6_99A97F7EA5AA_poster_zh.jpg
+videolevel_8E4046FC_CEAA_B066_41D5_A6D726971656.posterURL = media/video_C1249C41_CE99_579E_41D6_99A97F7EA5AA_poster_zh.jpg
+videolevel_8A82E7C3_CEAA_B0A2_418B_3C6A41A31143.url = media/video_C1249C41_CE99_579E_41D6_99A97F7EA5AA_zh.m3u8
+videolevel_8E4046FC_CEAA_B066_41D5_A6D726971656.url = media/video_C1249C41_CE99_579E_41D6_99A97F7EA5AA_zh.mp4
+videolevel_8A865771_CEAA_B07E_41D5_F6709730E921.posterURL = media/video_C1666A5C_CE99_53A6_41E1_D71B427A27CE_poster_zh.jpg
+videolevel_8D897F6B_CEA9_5061_41E4_F5F0F560A5DB.posterURL = media/video_C1666A5C_CE99_53A6_41E1_D71B427A27CE_poster_zh.jpg
+videolevel_8D897F6B_CEA9_5061_41E4_F5F0F560A5DB.url = media/video_C1666A5C_CE99_53A6_41E1_D71B427A27CE_zh.m3u8
+videolevel_8A865771_CEAA_B07E_41D5_F6709730E921.url = media/video_C1666A5C_CE99_53A6_41E1_D71B427A27CE_zh.mp4
+
+### Video Subtitles
+
+## Popup
+
+### Body
+htmlText_271A9FF6_6288_23D6_41A9_73E22C2761AD.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>光明燈</B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">點光明燈主要是祈求消災解厄，或希望求得平安、健康的情況下點燃。它也有增加智慧和清晰心靈的作用，幫助點燈者在困境中獲得庇佑。</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>文昌燈</B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">文昌燈是為祈求學業進步、考試順利、事業有成而點燃的。特別受到學生和學者的青睞。</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>安奉太歲</B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">每年都有不同的「值年太歲」，代表當年度的太歲神。安奉太歲燈通常在犯太歲之年點燃，目的是為了安撫太歲，祈求平安度過。</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>植福斗</B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">植福斗是為祈求個人或家族增福增壽的儀式。</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">點植福斗象徵「種福田」，即透過點燈來培植福德，祈求來年家運興旺、福氣綿延。</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Light of Clarity (Guangming Lamp)</B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">The Guangming Lamp is lit to pray for the removal of misfortunes and obstacles, as well as for peace and good health. It is also believed to enhance wisdom and mental clarity, offering protection and guidance during challenging times.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Lamp of Academic Success (Wenchang Lamp)</B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">The Wenchang Lamp is lit to seek blessings for academic improvement, success in exams, and career achievements. It is especially popular among students and scholars.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Appeasing the Tai Sui (Tai Sui Lamp)</B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Each year is associated with a specific Tai Sui deity, or the presiding celestial guardian of the year. The Tai Sui Lamp is lit during years of conflict with Tai Sui (referred to as "Fan Tai Sui") to appease the deity and pray for a peaceful and smooth year.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Lamp of Fortune (Zhifu Dou)</B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">The Zhifu Dou lamp represents a ritual to increase blessings and longevity for individuals or families. Lighting this lamp symbolizes "sowing the seeds of blessings," aiming to cultivate virtues and pray for prosperity and enduring good fortune in the coming year.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_503E272A_48DA_0AEE_4159_6052D916A87E.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>太歲星君</B></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">為人類一本命歲神，主掌人間的吉凶禍福，六十甲子各有歲神輪值，當值之歲神，即稱 「值年太歲 」。</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">為了避免得罪太歲神，到各寺廟「安太歲，求平安」，以祈求新一年平安順利，逢凶化吉，消災解厄，工商倍利，闔家平安。</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">The Tai Sui Deity is regarded as a guardian deity of an individual's birth year, overseeing the fortunes and misfortunes of humankind.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">In the sexagenary cycle (the sixty-year cycle of Chinese astrology), each year is governed by a specific Tai Sui deity, who takes turns in this role. The deity presiding over a particular year is referred to as the "Tai Sui of the Year" (Zhi Nian Tai Sui).</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_56118430_6288_6469_4191_33C2FD206A0A.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>文昌帝君</B></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">是中國民間信仰中的文運之神，掌管學業、考試與文運。文昌被尊崇為文聖，特別受到學生、學者及文人墨客的敬仰與祈禱。</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Wenchang Dijun, the God of Literature in Chinese folk belief, is revered as the deity overseeing academics, examinations, and literary fortune.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Honored as the Patron of Scholarship, Wenchang is especially worshiped by students, scholars, and literary figures who seek his blessings. He symbolizes wisdom, talent, and academic success.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_51694DE7_6298_27F6_41A2_25650688765D.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>神農氏</B></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">是中國傳說中的遠古帝王，被尊稱為「農業之神」。他被認為是醫藥與農業的創始人，傳說中嘗百草以治病，為人類發現多種植物的藥用價值。他象徵著健康、繁榮和智慧，特別是農業和醫學領域。</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Shennong, a legendary ancient ruler in Chinese mythology, is venerated as the God of Agriculture.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">He is regarded as the founder of medicine and agriculture, famously known for tasting hundreds of herbs to discover their medicinal properties and for identifying many plants useful to humanity. Shennong's image symbolizes health, prosperity, and wisdom, making him a significant figure of reverence, particularly in the fields of agriculture and medicine.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_50FAE903_6298_2C2E_41C2_8D134169BE0A.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>觀音菩薩</B></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">是佛教中的菩薩之一，象徵慈悲和救度，特別是幫助那些陷於困境、祈求解脫的人。她的形象通常溫和慈愛，受到廣泛的崇拜，特別是在尋求慈悲與平安的人們中。</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Guanyin Bodhisattva, one of the revered figures in Buddhism, symbolizes compassion and salvation.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">She is especially known for aiding those in distress and answering prayers for deliverance. Her image is often portrayed as gentle and loving, making her widely worshiped, particularly by those seeking mercy and peace in their lives.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_5D2454A7_48D6_0FE6_4194_4919C8080B67.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>關聖帝君</B></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">三國時期蜀漢的名將，以忠義著稱。</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">後來被尊奉為武聖、財神及保護正義的神祇，許多商人和武職人員都敬奉他，因為他象徵著忠誠、勇敢和財富的守護。</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Guan Sheng Dijun (Lord Guan) is renowned for his loyalty and righteousness.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Over time, he has been venerated as the God of War, God of Wealth, and a deity who protects justice. Many merchants and military personnel revere him, as he symbolizes loyalty, courage, and the safeguarding of wealth and integrity.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_5F8536C2_48C9_7719_41CD_C8241553E771.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>龍馬負河圖</B></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">為龍首、馬身、獅尾、牛蹄的組合，是太平盛世才出現的神獸，相當罕見，頗具特色。</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>The Dragon Horse Bearing the River Diagram</B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">The Dragon Horse is a mythical creature with the head of a dragon, the body of a horse, the tail of a lion, and the hooves of an ox. It is said to appear only during times of great peace and prosperity, making it an extraordinarily rare and distinctive being.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_5FB6A674_48C8_97F9_41B0_FBA730A6A401.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">此泥塑為「<B>丹鳳朝陽、牡丹盛開</B>」，意涵富貴吉祥。</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">This clay sculpture depicts "The Phoenix Facing the Sun and Peonies in Bloom," symbolizing wealth and auspiciousness.</SPAN></DIV></BODY></HTML></div>
+htmlText_B3262354_AA9B_4169_41B9_4A9909AD2296.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">萬和宮天宮爐</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">上面藍色框可以點擊!!!</SPAN></DIV></BODY></HTML></div>
+htmlText_4F884D1E_6287_E459_41AD_CB9A5716920A.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">雍正五年（1727）的匾額，是大臺中地區最早廟宇文物。</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">The plaque from the fifth year of the Yongzheng era (1727) is the oldest temple artifact in the Greater Taichung area, representing a significant piece of historical and cultural heritage.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+
+## Skin
+
+### Button
+Button_1B9A3D00_16C4_0505_41B2_6830155B7D52.label = E-LEARNING
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0.label = FLOORPLAN
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0_mobile.label = FLOORPLAN
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0_mobile.label = INFO
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98.label = INSTRUCTION
+Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4.label = LIGHT UP
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98_mobile.label = LOCATION
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448.label = PANORAMA LIST
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448_mobile.label = PANORAMAS
+Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4_mobile.label = PHOTOS
+Button_1B9A3D00_16C4_0505_41B2_6830155B7D52_mobile.label = REALTOR
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0.label = TEMPLE INFO
+Button_221B5648_0C06_E5FD_4198_40C786948FF0.label = lorem ipsum
+Button_23F057B8_0C0A_629D_41A2_CD6BDCDB0145_mobile.label = lorem ipsum
+Button_221B5648_0C06_E5FD_4198_40C786948FF0_mobile.label = lorem ipsum
+Button_FF9D1898_CEF9_50AE_41D6_5E5CA427A0F8.label = 祝福語 BLESSING SENTENCES
+Button_FF921778_CEFB_B06E_41B3_90C483DC59C2.label = 點燈 LIGHT UP
+
+### Image
+Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile_zh.jpg
+Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile.url = skin/Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile_zh.jpg
+Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile_zh.png
+Image_1B99DD00_16C4_0505_41B3_51F09727447A.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_zh.png
+Image_D4982662_CEBE_F062_41E6_DE612BE6BD71.url = skin/Image_D4982662_CEBE_F062_41E6_DE612BE6BD71_zh.jpg
+Image_DF6AAD2B_CE99_71E2_41CC_63B5AA16C489.url = skin/Image_DF6AAD2B_CE99_71E2_41CC_63B5AA16C489_zh.jpg
+Image_FF531F25_CEF7_B1E6_41E4_97AF8F16C8E6.url = skin/Image_FF531F25_CEF7_B1E6_41E4_97AF8F16C8E6_zh.png
+Image_FFEA51F7_CEF9_F061_41B0_744CFD2019B6.url = skin/Image_FFEA51F7_CEF9_F061_41B0_744CFD2019B6_zh.jpg
+
+### Label
+Label_0DD14F09_1744_0507_41AA_D8475423214A_mobile.text = LOREM IPSUM
+Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2_mobile.text = dolor sit amet, consectetur 
+Label_0DD14F09_1744_0507_41AA_D8475423214A.text = 萬和宮 Taichung Wanhe Temple
+
+### Multiline Text
+HTMLText_EA4506F7_FDA0_5CF1_41C2_BF883C7259BF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_2F8A4686_0D4F_6B71_4183_10C1696E2923_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.26vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.26vh;font-family:'Bebas Neue Bold';">FLOORPLAN:</SPAN></SPAN></DIV></div>
+HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.760000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.67vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vmin;font-family:'Bebas Neue Bold';">location</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.86vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.3899999999999997vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.39vmin;font-family:'Bebas Neue Bold';">address line 1</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.3899999999999997vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.39vmin;font-family:'Bebas Neue Bold';">address line 2</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.42vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.42vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac.</SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.05vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:10.05vmin;font-family:'Bebas Neue Bold';">john doe</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.23vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.23vmin;font-family:'Bebas Neue Bold';">licensed real estate salesperson</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.28vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.59vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">Tlf.: +11 111 111 111</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.59vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">jhondoe@realestate.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.59vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">www.loremipsum.com</SPAN></SPAN></DIV></div>
+HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.05vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.05vmin;font-family:'Bebas Neue Bold';">location</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.23vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.23vmin;font-family:'Bebas Neue Bold';">address line 1</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.23vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.23vmin;font-family:'Bebas Neue Bold';">address line 2</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac.</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.98vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7.98vmin;font-family:'Bebas Neue Bold';">Panorama list:</SPAN></SPAN></DIV></div>
+HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:9.73vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:9.73vmin;font-family:'Bebas Neue Bold';">Lorem ipsum</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:9.73vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:9.73vmin;font-family:'Bebas Neue Bold';">dolor sit amet</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.23vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.23vmin;font-family:'Bebas Neue Bold';">consectetur adipiscing elit. Morbi bibendum pharetra lorem, accumsan san nulla.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.04vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:6.23vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.23vmin;font-family:'Bebas Neue Bold';"><B>Donec feugiat:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
