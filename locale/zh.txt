@@ -8,8 +8,11 @@ WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/
 ## E-Learning
 
 ### Answer
-questionOption_458F8041_62B8_DC2A_41D4_3C9BB7626936.text = 以上皆是
+questionOption_788AFE6A_3AE4_04F2_41C9_525C89DA97FF.text = d
+questionOption_785C157C_3AE4_04D6_41CD_6433530CD971.text = s
+questionOption_7C64766A_3AE4_04F2_41B7_8B159FE02092.text = v
 questionOption_46DEBE41_62B8_E42A_41BC_CD4C1EA72502.text = 以上皆是
+questionOption_458F8041_62B8_DC2A_41D4_3C9BB7626936.text = 以上皆是
 questionOption_46A58BBB_62B8_EC5F_41A7_798BBC515622.text = 健康平安
 questionOption_41AB0951_62B8_EC2A_41D3_35C9B9F31248.text = 光明燈
 questionOption_45952219_6287_DC5B_41D5_923E2C047E22.text = 前年
@@ -39,6 +42,7 @@ question_47799E00_62B8_242A_41D4_CD638662EFF9.title = 請問安奉太歲在哪�
 question_41BEB082_62B8_5C2E_41B3_D8774150E548.title = 請問文昌帝君掌管甚麼? \
 
 question_46C380A3_62B8_5C6E_41C7_CC7855EC2250.title = 請問植福斗是為祈求?
+question_7CF133BD_3AE4_7C56_4176_DD214AEE7AD7.title = 請問萬和宮在台中哪一區?
 question_4B001765_6288_24EA_41D7_57ECD20A826B.title = 請問萬和宮在台中哪一區?
 question_43DE7CEA_6288_E5FE_41C2_127B7F513CB4.title = 請問萬和宮是國家第幾級古蹟?
 question_47D03DA7_6288_6477_41D1_A2D3F4D8C24A.title = 請問萬和宮的主神是?
@@ -73,45 +77,41 @@ quizTimeout_425AC9D6_6288_6FD6_41CC_1FB466D2E19E.score = View Score
 ### Floorplan
 
 ### Image
-imlevel_281F3588_175E_9EDC_41A5_3D4510D3050C.url = media/map_72539235_6278_DC6A_41C9_43F9ECF8DDEB_zh_0.jpg
-imlevel_281F5589_175E_9EDC_4199_5E2EDBD28EAA.url = media/map_72539235_6278_DC6A_41C9_43F9ECF8DDEB_zh_1.jpg
-imlevel_281F7589_175E_9EDC_4199_A1C484D8B12B.url = media/map_72539235_6278_DC6A_41C9_43F9ECF8DDEB_zh_2.jpg
-imlevel_281F8589_175E_9EDC_41B1_0A50C3204B60.url = media/map_72539235_6278_DC6A_41C9_43F9ECF8DDEB_zh_3.jpg
+imlevel_7DD03BFD_3A9C_03D6_41C0_6BC0AE76183E.url = media/map_72539235_6278_DC6A_41C9_43F9ECF8DDEB_zh_0.jpg
+imlevel_7DD02BFD_3A9C_03D6_41BE_DB473E932BDE.url = media/map_72539235_6278_DC6A_41C9_43F9ECF8DDEB_zh_1.jpg
+imlevel_7DD01BFD_3A9C_03D6_41C7_76508E6D760F.url = media/map_72539235_6278_DC6A_41C9_43F9ECF8DDEB_zh_2.jpg
+imlevel_7DD00BFD_3A9C_03D6_41C9_6D90FE5FD8D4.url = media/map_72539235_6278_DC6A_41C9_43F9ECF8DDEB_zh_3.jpg
 imlevel_E08BA1B0_CEE9_B0FE_41DA_FC17EBC3534F.url = media/popup_EFA1D3B0_CEB9_50FE_41DA_8AAF7E68F0C8_zh_0_0.jpg
 imlevel_E08AA1B1_CEE9_B0FE_41E7_3AD192D1AD4C.url = media/popup_EFA1D3B0_CEB9_50FE_41DA_8AAF7E68F0C8_zh_0_1.jpg
 imlevel_E08A91B1_CEE9_B0FE_41DA_C2F3DC4936D4.url = media/popup_EFA1D3B0_CEB9_50FE_41DA_8AAF7E68F0C8_zh_0_2.jpg
-imlevel_2848A967_175E_9654_416D_4AF8926BE5F9.url = media/zoomImage_066E78A5_16B2_96D4_41B5_F48E02F6B309_zh_0_0.jpg
-imlevel_2848D967_175E_9654_4199_A8FBACA84E69.url = media/zoomImage_066E78A5_16B2_96D4_41B5_F48E02F6B309_zh_0_1.jpg
-imlevel_2848E967_175E_9654_41AB_0C7D7507AB9B.url = media/zoomImage_066E78A5_16B2_96D4_41B5_F48E02F6B309_zh_0_2.jpg
-imlevel_2848F967_175E_9654_41B1_A37CC60B01D6.url = media/zoomImage_066E78A5_16B2_96D4_41B5_F48E02F6B309_zh_0_3.jpg
-imlevel_28491967_175E_9654_41B6_8B285A29B1BE.url = media/zoomImage_066E78A5_16B2_96D4_41B5_F48E02F6B309_zh_0_4.jpg
-imlevel_2837795B_175E_967C_41B5_B10FDF499767.url = media/zoomImage_07A84C05_16B1_6DD5_41AF_48E7F782D9CC_zh_0_0.jpg
-imlevel_2837995B_175E_967C_41AA_9A1CB05B17C9.url = media/zoomImage_07A84C05_16B1_6DD5_41AF_48E7F782D9CC_zh_0_1.jpg
-imlevel_2837B95C_175E_9674_41B3_9F0B760DCD0E.url = media/zoomImage_07A84C05_16B1_6DD5_41AF_48E7F782D9CC_zh_0_2.jpg
-imlevel_2837D95C_175E_9674_41AC_FD01AA846CF9.url = media/zoomImage_07A84C05_16B1_6DD5_41AF_48E7F782D9CC_zh_0_3.jpg
-imlevel_2848195C_175E_9674_41A2_435BC280E30B.url = media/zoomImage_07A84C05_16B1_6DD5_41AF_48E7F782D9CC_zh_0_4.jpg
-imlevel_284C2998_175E_96FB_4186_AE9940F80204.url = media/zoomImage_0CA1AC9E_16D3_EEF4_41B6_135B5FB6C62A_zh_0_0.png
-imlevel_284B4999_175E_96FD_4193_2E747BD2DB4E.url = media/zoomImage_0CA1AC9E_16D3_EEF4_41B6_135B5FB6C62A_zh_0_1.png
-imlevel_284B9977_175E_9634_415F_4D4A9CD01DF1.url = media/zoomImage_0F226A2F_16DF_95D4_4138_3D227371BE68_zh_0_0.png
-imlevel_2849A977_175E_9634_4192_93403B603C6F.url = media/zoomImage_0F226A2F_16DF_95D4_4138_3D227371BE68_zh_0_1.png
-imlevel_284C7988_175E_96DC_4198_B435D7E66931.url = media/zoomImage_0F409F62_16D3_AA4F_4187_802943F737F6_zh_0_0.png
-imlevel_284C9988_175E_96DC_41A0_D111767B83AA.url = media/zoomImage_0F409F62_16D3_AA4F_4187_802943F737F6_zh_0_1.png
-imlevel_284E59D8_175E_967B_41B2_7260FF8F8DDE.url = media/zoomImage_240C6B73_16B6_AA4C_41AF_A98454520366_zh_0_0.jpg
-imlevel_284E79D8_175E_967B_41B5_032D5BD630A5.url = media/zoomImage_240C6B73_16B6_AA4C_41AF_A98454520366_zh_0_1.jpg
-imlevel_284E89D8_175E_967B_41AC_91AADF8451F6.url = media/zoomImage_240C6B73_16B6_AA4C_41AF_A98454520366_zh_0_2.jpg
-imlevel_284EB9D8_175E_967B_4195_AFD76192220E.url = media/zoomImage_240C6B73_16B6_AA4C_41AF_A98454520366_zh_0_3.jpg
-imlevel_284F19D8_175E_967B_4197_86BDA84B3FCC.url = media/zoomImage_240C6B73_16B6_AA4C_41AF_A98454520366_zh_0_4.jpg
-imlevel_284F79E8_175E_965B_41B5_5F96498C86C5.url = media/zoomImage_24CB3B30_16B1_6BCC_41A0_E31C22C0EA08_zh_0_0.jpg
-imlevel_284FA9E8_175E_965B_41A9_9F66E81B29EC.url = media/zoomImage_24CB3B30_16B1_6BCC_41A0_E31C22C0EA08_zh_0_1.jpg
-imlevel_284FC9E8_175E_965B_41AC_31D504E08291.url = media/zoomImage_24CB3B30_16B1_6BCC_41A0_E31C22C0EA08_zh_0_2.jpg
-imlevel_284FD9E8_175E_965B_41B3_911018F58D5D.url = media/zoomImage_24CB3B30_16B1_6BCC_41A0_E31C22C0EA08_zh_0_3.jpg
-imlevel_284FF9E8_175E_965B_41B3_27C742F27E10.url = media/zoomImage_24CB3B30_16B1_6BCC_41A0_E31C22C0EA08_zh_0_4.jpg
-imlevel_284F99C6_175E_9657_41A0_1C0CEBCE99A5.url = media/zoomImage_25FB0186_16B1_76D7_41A9_1A6D1B568080_zh_0_0.png
-imlevel_284FB9C6_175E_9657_41B2_668A450F0E76.url = media/zoomImage_25FB0186_16B1_76D7_41A9_1A6D1B568080_zh_0_1.png
-imlevel_284DF9A9_175E_96DD_41A8_3461D9C829D3.url = media/zoomImage_274F0524_16B1_7FD4_4191_414B3E0E24AC_zh_0_0.png
-imlevel_284E19A9_175E_96DD_4199_0EFF07627FD4.url = media/zoomImage_274F0524_16B1_7FD4_4191_414B3E0E24AC_zh_0_1.png
-imlevel_284CD9BA_175E_963F_41A6_717BD7AA5689.url = media/zoomImage_27F30C22_16B7_ADCC_41B3_2E6C801B1624_zh_0_0.png
-imlevel_284CF9BA_175E_963F_4199_67CA08C339A5.url = media/zoomImage_27F30C22_16B7_ADCC_41B3_2E6C801B1624_zh_0_1.png
+imlevel_7DBED0E6_3A9C_7DF5_41C4_245CBE2008C5.url = media/zoomImage_180EBF34_3AA4_0455_41CB_954358B7A250_zh_0_0.jpg
+imlevel_7DBEE0E6_3A9C_7DF5_4198_1C811C6C6780.url = media/zoomImage_180EBF34_3AA4_0455_41CB_954358B7A250_zh_0_1.jpg
+imlevel_7DBE80E6_3A9C_7DF5_41C0_F5BE652827F8.url = media/zoomImage_180EBF34_3AA4_0455_41CB_954358B7A250_zh_0_2.jpg
+imlevel_7D8760B2_3A9C_7C6D_41B8_65E25ABA0C13.url = media/zoomImage_240C6B73_16B6_AA4C_41AF_A98454520366_zh_0_0.jpg
+imlevel_7D8770B2_3A9C_7C6D_41CC_C259456C7396.url = media/zoomImage_240C6B73_16B6_AA4C_41AF_A98454520366_zh_0_1.jpg
+imlevel_7D8710B2_3A9C_7C6D_41BB_9F140880753C.url = media/zoomImage_240C6B73_16B6_AA4C_41AF_A98454520366_zh_0_2.jpg
+imlevel_7D8920B3_3A9C_7C53_41C7_88530DEEEB92.url = media/zoomImage_240C6B73_16B6_AA4C_41AF_A98454520366_zh_0_3.jpg
+imlevel_7D8930B3_3A9C_7C53_41C9_DBADA5D0AD67.url = media/zoomImage_240C6B73_16B6_AA4C_41AF_A98454520366_zh_0_4.jpg
+imlevel_7D8760BB_3A9C_7C53_41A3_74717EE6D447.url = media/zoomImage_24CB3B30_16B1_6BCC_41A0_E31C22C0EA08_zh_0_0.jpg
+imlevel_7D8770BB_3A9C_7C53_41CC_22970D7A787A.url = media/zoomImage_24CB3B30_16B1_6BCC_41A0_E31C22C0EA08_zh_0_1.jpg
+imlevel_7D8700BC_3A9C_7C55_41C2_16F39E5680E4.url = media/zoomImage_24CB3B30_16B1_6BCC_41A0_E31C22C0EA08_zh_0_2.jpg
+imlevel_7D8810BC_3A9C_7C55_41A7_AD740000AB18.url = media/zoomImage_24CB3B30_16B1_6BCC_41A0_E31C22C0EA08_zh_0_3.jpg
+imlevel_7D8820BC_3A9C_7C55_41A2_47F77AFD48B4.url = media/zoomImage_24CB3B30_16B1_6BCC_41A0_E31C22C0EA08_zh_0_4.jpg
+imlevel_7D8A10A2_3A9C_7C72_41C8_B1C5052D52F8.url = media/zoomImage_25FB0186_16B1_76D7_41A9_1A6D1B568080_zh_0_0.png
+imlevel_7D8A20A2_3A9C_7C72_41BA_D17B8D00495C.url = media/zoomImage_25FB0186_16B1_76D7_41A9_1A6D1B568080_zh_0_1.png
+imlevel_7D8B007F_3A9C_7CD2_41C3_58D5B51B0731.url = media/zoomImage_274F0524_16B1_7FD4_4191_414B3E0E24AC_zh_0_0.png
+imlevel_7D8B1080_3A9C_7C2E_41BF_3D018C9B97EE.url = media/zoomImage_274F0524_16B1_7FD4_4191_414B3E0E24AC_zh_0_1.png
+imlevel_7D88908E_3A9C_7C32_4180_4C8EE7468A4D.url = media/zoomImage_27F30C22_16B7_ADCC_41B3_2E6C801B1624_zh_0_0.png
+imlevel_7D88A08E_3A9C_7C32_41B0_8F5708CBBA76.url = media/zoomImage_27F30C22_16B7_ADCC_41B3_2E6C801B1624_zh_0_1.png
+imlevel_7DACA2AD_3A9C_7C76_41C9_B7906CF56FA1.url = media/zoomImage_2D8BFC7F_3AAC_04D2_41A1_3A215C9C7F37_zh_0_0.jpg
+imlevel_7DACB2AD_3A9C_7C76_41C5_0FCEAAAD73AD.url = media/zoomImage_2D8BFC7F_3AAC_04D2_41A1_3A215C9C7F37_zh_0_1.jpg
+imlevel_7DAC52AD_3A9C_7C76_41C8_383C7FFF4E3D.url = media/zoomImage_2D8BFC7F_3AAC_04D2_41A1_3A215C9C7F37_zh_0_2.jpg
+imlevel_7DB2521D_3A9C_7C57_41CA_C44C5DCA606E.url = media/zoomImage_2DB015F3_3AAC_07D1_418A_4F1973F26310_zh_0_0.jpg
+imlevel_7DB2721D_3A9C_7C57_41C6_E0C7D9C06822.url = media/zoomImage_2DB015F3_3AAC_07D1_418A_4F1973F26310_zh_0_1.jpg
+imlevel_7DB2021D_3A9C_7C57_41C0_ECA285D1B3E4.url = media/zoomImage_2DB015F3_3AAC_07D1_418A_4F1973F26310_zh_0_2.jpg
+imlevel_7DB89181_3A9C_7C2E_41B2_70FA27EAF9E7.url = media/zoomImage_2F1F8B58_3AAC_0CDE_41CA_7E624DC8FBF1_zh_0_0.jpg
+imlevel_7DB8A181_3A9C_7C2E_41C4_52DF65BDAFD9.url = media/zoomImage_2F1F8B58_3AAC_0CDE_41CA_7E624DC8FBF1_zh_0_1.jpg
+imlevel_7DB8B182_3A9C_7C32_41C1_21BA90805949.url = media/zoomImage_2F1F8B58_3AAC_0CDE_41CA_7E624DC8FBF1_zh_0_2.jpg
 
 ### Popup Image
 
@@ -152,9 +152,10 @@ photo_E500E721_CE97_519E_41E7_13F4192AA13F.label = IMG_9756 3
 photo_E500E721_CE97_519E_41E7_13F4192AA13F.label = IMG_9756 3
 album_53CEAC00_48C9_FB18_41C7_AA72A5ABE7E4_0.label = LINE_ALBUM_萬和宮_220725
 album_53CEAC00_48C9_FB18_41C7_AA72A5ABE7E4.label = Photo Album LINE_ALBUM_萬和宮_220725
-video_B080FFB1_AAE9_412A_41D3_91C43F59BB57.label = 光明燈
-album_53CEAC00_48C9_FB18_41C7_AA72A5ABE7E4_1.label = 太歲
 photo_51473B7D_48DE_796A_41A5_8642CC124CFB.label = 太歲
+album_53CEAC00_48C9_FB18_41C7_AA72A5ABE7E4_1.label = 太歲
+video_0151EA15_3AE4_0C57_41BC_85542011531D.label = 媽祖中
+video_02E4C17E_3AE3_FCD5_41B3_8A08941148E7.label = 媽祖英
 album_53CEAC00_48C9_FB18_41C7_AA72A5ABE7E4_6.label = 截圖 2024-11-12 上午10.51.32
 album_53CEAC00_48C9_FB18_41C7_AA72A5ABE7E4_2.label = 文昌
 photo_54EA241F_6288_E456_41C2_365A4832FB40.label = 文昌
@@ -162,45 +163,49 @@ photo_FB299D3C_CEEF_51E6_41E1_5094EF67A24A.label = 未命名的作品3
 photo_FB299D3C_CEEF_51E6_41E1_5094EF67A24A.label = 未命名的作品3
 map_72539235_6278_DC6A_41C9_43F9ECF8DDEB.label = 研究會議拷貝2
 album_53CEAC00_48C9_FB18_41C7_AA72A5ABE7E4_4.label = 研究會議拷貝2
-album_53CEAC00_48C9_FB18_41C7_AA72A5ABE7E4_5.label = 神農
 photo_535A2E95_6298_242A_41A0_0A29615ADEA3.label = 神農
-photo_4C75D3D2_6298_7C2E_41B0_4FC448326B48.label = 福蔭全臺
+album_53CEAC00_48C9_FB18_41C7_AA72A5ABE7E4_5.label = 神農
 album_53CEAC00_48C9_FB18_41C7_AA72A5ABE7E4_7.label = 福蔭全臺
+photo_4C75D3D2_6298_7C2E_41B0_4FC448326B48.label = 福蔭全臺
 video_3596B80A_16F3_75DF_413D_45A98D76B144.label = 老二嗎
 album_53CEAC00_48C9_FB18_41C7_AA72A5ABE7E4_3.label = 老二媽
-video_C1666A5C_CE99_53A6_41E1_D71B427A27CE.label = 萬和宮
-video_C1249C41_CE99_579E_41D6_99A97F7EA5AA.label = 萬和宮2
-video_C123CE41_CE99_539E_41E2_40AFDDAC4C4D.label = 萬和宮3
+video_1187FD66_3AEC_04F5_41A6_1C3E38BD7C75.label = 萬和宮4
+video_16231AD9_3AEC_0DDE_41BD_1B1CD615CB6D.label = 萬和宮5
+video_17C42A8F_3AEC_0C32_41A4_F19B07521521.label = 萬和宮6
 photo_56FC14DE_6298_25D6_41D1_CA36B8EB1E3F.label = 觀音
 album_53CEAC00_48C9_FB18_41C7_AA72A5ABE7E4_11.label = 觀音
-album_53CEAC00_48C9_FB18_41C7_AA72A5ABE7E4_10.label = 關公
 photo_5E0E8F98_48D6_19A9_41BA_654102BB5DE9.label = 關公
+album_53CEAC00_48C9_FB18_41C7_AA72A5ABE7E4_10.label = 關公
 album_53CEAC00_48C9_FB18_41C7_AA72A5ABE7E4_8.label = 鳳
 photo_5FECFA63_48CB_BF1F_41CC_96868574E1E3.label = 鳳
 photo_50DD00E7_48C8_EB18_41C6_0A21D05DC454.label = 龍馬負河圖
 album_53CEAC00_48C9_FB18_41C7_AA72A5ABE7E4_9.label = 龍馬負河圖
 
 ### Video
-videolevel_299091AE_1751_76D7_4192_8FCB2FC6269C.posterURL = media/video_3596B80A_16F3_75DF_413D_45A98D76B144_poster_zh.jpg
-videolevel_2819F506_175E_9FD7_41A1_BDE9D60FE876.posterURL = media/video_3596B80A_16F3_75DF_413D_45A98D76B144_poster_zh.jpg
-videolevel_299091AE_1751_76D7_4192_8FCB2FC6269C.url = media/video_3596B80A_16F3_75DF_413D_45A98D76B144_zh.m3u8
-videolevel_2819F506_175E_9FD7_41A1_BDE9D60FE876.url = media/video_3596B80A_16F3_75DF_413D_45A98D76B144_zh.mp4
-videolevel_29833061_1751_764C_4172_87BD97437B89.posterURL = media/video_B080FFB1_AAE9_412A_41D3_91C43F59BB57_poster_zh.jpg
-videolevel_29834061_1751_764C_41B2_15CB4EF4AE91.posterURL = media/video_B080FFB1_AAE9_412A_41D3_91C43F59BB57_poster_zh.jpg
-videolevel_29834061_1751_764C_41B2_15CB4EF4AE91.url = media/video_B080FFB1_AAE9_412A_41D3_91C43F59BB57_zh.m3u8
-videolevel_29833061_1751_764C_4172_87BD97437B89.url = media/video_B080FFB1_AAE9_412A_41D3_91C43F59BB57_zh.mp4
-videolevel_29951165_1751_7655_418A_3EE3B3CAC04C.posterURL = media/video_C123CE41_CE99_539E_41E2_40AFDDAC4C4D_poster_zh.jpg
-videolevel_29950165_1751_7655_41AE_F799A89A0335.posterURL = media/video_C123CE41_CE99_539E_41E2_40AFDDAC4C4D_poster_zh.jpg
-videolevel_29951165_1751_7655_418A_3EE3B3CAC04C.url = media/video_C123CE41_CE99_539E_41E2_40AFDDAC4C4D_zh.m3u8
-videolevel_29950165_1751_7655_41AE_F799A89A0335.url = media/video_C123CE41_CE99_539E_41E2_40AFDDAC4C4D_zh.mp4
-videolevel_298A610D_1751_77D5_4199_38AF5AE81A7F.posterURL = media/video_C1249C41_CE99_579E_41D6_99A97F7EA5AA_poster_zh.jpg
-videolevel_298A810D_1751_77D5_41B5_BF5741D8F95C.posterURL = media/video_C1249C41_CE99_579E_41D6_99A97F7EA5AA_poster_zh.jpg
-videolevel_298A810D_1751_77D5_41B5_BF5741D8F95C.url = media/video_C1249C41_CE99_579E_41D6_99A97F7EA5AA_zh.m3u8
-videolevel_298A610D_1751_77D5_4199_38AF5AE81A7F.url = media/video_C1249C41_CE99_579E_41D6_99A97F7EA5AA_zh.mp4
-videolevel_298EF0B4_1751_7634_4195_0898974CE838.posterURL = media/video_C1666A5C_CE99_53A6_41E1_D71B427A27CE_poster_zh.jpg
-videolevel_298F00B4_1751_7634_4198_8A8D20442B28.posterURL = media/video_C1666A5C_CE99_53A6_41E1_D71B427A27CE_poster_zh.jpg
-videolevel_298F00B4_1751_7634_4198_8A8D20442B28.url = media/video_C1666A5C_CE99_53A6_41E1_D71B427A27CE_zh.m3u8
-videolevel_298EF0B4_1751_7634_4195_0898974CE838.url = media/video_C1666A5C_CE99_53A6_41E1_D71B427A27CE_zh.mp4
+videolevel_7CC131BA_3A9C_1C5D_41C0_983EC5112C87.posterURL = media/video_0151EA15_3AE4_0C57_41BC_85542011531D_poster_zh.jpg
+videolevel_735DD4E5_3A9C_05F7_41A9_6554AB9F86E1.posterURL = media/video_0151EA15_3AE4_0C57_41BC_85542011531D_poster_zh.jpg
+videolevel_735DD4E5_3A9C_05F7_41A9_6554AB9F86E1.url = media/video_0151EA15_3AE4_0C57_41BC_85542011531D_zh.m3u8
+videolevel_7CC131BA_3A9C_1C5D_41C0_983EC5112C87.url = media/video_0151EA15_3AE4_0C57_41BC_85542011531D_zh.mp4
+videolevel_7C216A91_3A9C_0C2E_41CA_EA5DFC22DE75.posterURL = media/video_02E4C17E_3AE3_FCD5_41B3_8A08941148E7_poster_zh.jpg
+videolevel_7CF8C30D_3A9C_1C37_41BB_C5132C8E70D2.posterURL = media/video_02E4C17E_3AE3_FCD5_41B3_8A08941148E7_poster_zh.jpg
+videolevel_7CF8C30D_3A9C_1C37_41BB_C5132C8E70D2.url = media/video_02E4C17E_3AE3_FCD5_41B3_8A08941148E7_zh.m3u8
+videolevel_7C216A91_3A9C_0C2E_41CA_EA5DFC22DE75.url = media/video_02E4C17E_3AE3_FCD5_41B3_8A08941148E7_zh.mp4
+videolevel_731C387C_3A9C_0CD6_41B1_5187C1D3D392.posterURL = media/video_1187FD66_3AEC_04F5_41A6_1C3E38BD7C75_poster_zh.jpg
+videolevel_72BFBA25_3A9C_0C76_41BB_3D278CE52F1C.posterURL = media/video_1187FD66_3AEC_04F5_41A6_1C3E38BD7C75_poster_zh.jpg
+videolevel_72BFBA25_3A9C_0C76_41BB_3D278CE52F1C.url = media/video_1187FD66_3AEC_04F5_41A6_1C3E38BD7C75_zh.m3u8
+videolevel_731C387C_3A9C_0CD6_41B1_5187C1D3D392.url = media/video_1187FD66_3AEC_04F5_41A6_1C3E38BD7C75_zh.mp4
+videolevel_73AA538F_3A9C_7C32_41A8_F879E4434E3D.posterURL = media/video_16231AD9_3AEC_0DDE_41BD_1B1CD615CB6D_poster_zh.jpg
+videolevel_7DAC9C42_3A9C_042D_41BA_88BAD7C693B9.posterURL = media/video_16231AD9_3AEC_0DDE_41BD_1B1CD615CB6D_poster_zh.jpg
+videolevel_7DAC9C42_3A9C_042D_41BA_88BAD7C693B9.url = media/video_16231AD9_3AEC_0DDE_41BD_1B1CD615CB6D_zh.m3u8
+videolevel_73AA538F_3A9C_7C32_41A8_F879E4434E3D.url = media/video_16231AD9_3AEC_0DDE_41BD_1B1CD615CB6D_zh.mp4
+videolevel_730FE9C5_3A9C_0C37_41AD_F32B6958CBC7.posterURL = media/video_17C42A8F_3AEC_0C32_41A4_F19B07521521_poster_zh.jpg
+videolevel_7DBA1AAE_3A9C_0C72_41BF_2B1602A654FF.posterURL = media/video_17C42A8F_3AEC_0C32_41A4_F19B07521521_poster_zh.jpg
+videolevel_730FE9C5_3A9C_0C37_41AD_F32B6958CBC7.url = media/video_17C42A8F_3AEC_0C32_41A4_F19B07521521_zh.m3u8
+videolevel_7DBA1AAE_3A9C_0C72_41BF_2B1602A654FF.url = media/video_17C42A8F_3AEC_0C32_41A4_F19B07521521_zh.mp4
+videolevel_728119DE_3A9C_0FD2_41AC_EB6A7E7B56AE.posterURL = media/video_3596B80A_16F3_75DF_413D_45A98D76B144_poster_zh.jpg
+videolevel_728179DD_3A9C_0FD6_41C1_A4E8D9907A13.posterURL = media/video_3596B80A_16F3_75DF_413D_45A98D76B144_poster_zh.jpg
+videolevel_728179DD_3A9C_0FD6_41C1_A4E8D9907A13.url = media/video_3596B80A_16F3_75DF_413D_45A98D76B144_zh.m3u8
+videolevel_728119DE_3A9C_0FD2_41AC_EB6A7E7B56AE.url = media/video_3596B80A_16F3_75DF_413D_45A98D76B144_zh.mp4
 
 ### Video Subtitles
 
@@ -213,6 +218,7 @@ htmlText_35405A5B_16CF_AA7C_41B6_9267CC2DD09F.html = <div style="text-align:left
 htmlText_56118430_6288_6469_4191_33C2FD206A0A.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>文昌帝君</B></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">是中國民間信仰中的文運之神，掌管學業、考試與文運。文昌被尊崇為文聖，特別受到學生、學者及文人墨客的敬仰與祈禱。</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Wenchang Dijun, the God of Literature in Chinese folk belief, is revered as the deity overseeing academics, examinations, and literary fortune.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Honored as the Patron of Scholarship, Wenchang is especially worshiped by students, scholars, and literary figures who seek his blessings. He symbolizes wisdom, talent, and academic success.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
 htmlText_51694DE7_6298_27F6_41A2_25650688765D.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>神農氏</B></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">是中國傳說中的遠古帝王，被尊稱為「農業之神」。他被認為是醫藥與農業的創始人，傳說中嘗百草以治病，為人類發現多種植物的藥用價值。他象徵著健康、繁榮和智慧，特別是農業和醫學領域。</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Shennong, a legendary ancient ruler in Chinese mythology, is venerated as the God of Agriculture.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">He is regarded as the founder of medicine and agriculture, famously known for tasting hundreds of herbs to discover their medicinal properties and for identifying many plants useful to humanity. Shennong's image symbolizes health, prosperity, and wisdom, making him a significant figure of reverence, particularly in the fields of agriculture and medicine.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
 htmlText_50FAE903_6298_2C2E_41C2_8D134169BE0A.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>觀音菩薩</B></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">是佛教中的菩薩之一，象徵慈悲和救度，特別是幫助那些陷於困境、祈求解脫的人。她的形象通常溫和慈愛，受到廣泛的崇拜，特別是在尋求慈悲與平安的人們中。</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Guanyin Bodhisattva, one of the revered figures in Buddhism, symbolizes compassion and salvation.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">She is especially known for aiding those in distress and answering prayers for deliverance. Her image is often portrayed as gentle and loving, making her widely worshiped, particularly by those seeking mercy and peace in their lives.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_2FD3F703_3AA4_0432_41A0_DF6921915B56.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>觀音菩薩</B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">佛教中的菩薩之一，象徵慈悲和救度，特別是幫助那些陷於困境、祈求解脫的人。她的形象通常溫和慈愛，受到廣泛的崇拜，特別是在尋求慈悲與平安的人們中。</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Guanyin Bodhisattva, one of the revered figures in Buddhism, symbolizes compassion and salvation.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">She is especially known for aiding those in distress and answering prayers for deliverance. Her image is often portrayed as gentle and loving, making her widely worshiped, particularly by those seeking mercy and peace in their lives.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
 htmlText_5D2454A7_48D6_0FE6_4194_4919C8080B67.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>關聖帝君</B></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">三國時期蜀漢的名將，以忠義著稱。</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">後來被尊奉為武聖、財神及保護正義的神祇，許多商人和武職人員都敬奉他，因為他象徵著忠誠、勇敢和財富的守護。</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Guan Sheng Dijun (Lord Guan) is renowned for his loyalty and righteousness.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Over time, he has been venerated as the God of War, God of Wealth, and a deity who protects justice. Many merchants and military personnel revere him, as he symbolizes loyalty, courage, and the safeguarding of wealth and integrity.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
 htmlText_5F8536C2_48C9_7719_41CD_C8241553E771.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>龍馬負河圖</B></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">為龍首、馬身、獅尾、牛蹄的組合，是太平盛世才出現的神獸，相當罕見，頗具特色。</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>The Dragon Horse Bearing the River Diagram</B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">The Dragon Horse is a mythical creature with the head of a dragon, the body of a horse, the tail of a lion, and the hooves of an ox. It is said to appear only during times of great peace and prosperity, making it an extraordinarily rare and distinctive being.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
 htmlText_5FB6A674_48C8_97F9_41B0_FBA730A6A401.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">此泥塑為「<B>丹鳳朝陽、牡丹盛開</B>」，意涵富貴吉祥。</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">This clay sculpture depicts "The Phoenix Facing the Sun and Peonies in Bloom," symbolizing wealth and auspiciousness.</SPAN></DIV></BODY></HTML></div>
@@ -222,15 +228,15 @@ htmlText_4F884D1E_6287_E459_41AD_CB9A5716920A.html = <div style="text-align:left
 ## Skin
 
 ### Button
-Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0.label = DRAW LOTS
 Button_1B9A6D00_16C4_0505_4197_F2108627CC98_mobile.label = DRAW LOTS
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0.label = DRAW LOTS
 Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4_mobile.label = E-LEARNING
 Button_1B9A3D00_16C4_0505_41B2_6830155B7D52.label = E-LEARNING
 Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0_mobile.label = INFO
 Button_1B9A6D00_16C4_0505_4197_F2108627CC98.label = INSTRUCTION
 Button_1B999D00_16C4_0505_41AB_D0C2E7857448_mobile.label = INSTRUCTION
-Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4.label = LIGHT UP
 Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0_mobile.label = LIGHT UP
+Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4.label = LIGHT UP
 Button_1B999D00_16C4_0505_41AB_D0C2E7857448.label = PANORAMA LIST
 Button_1B9A3D00_16C4_0505_41B2_6830155B7D52_mobile.label = REALTOR
 Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0.label = TEMPLE INFO
@@ -241,7 +247,6 @@ Button_27657573_16B1_9E4D_41B1_8167FE3D2116.label = 抽籤2
 Button_0EA41E96_16DE_EAF4_41A8_2BB4F957EF09.label = 抽籤2 DRAW LOTS 2
 Button_277BC153_16B7_F64C_41B4_F66BD7DF8D34.label = 抽籤3
 Button_0C91D4F5_16D2_9E35_41AF_299CD5681F54.label = 抽籤3 DRAW LOTS 3
-Button_FF9D1898_CEF9_50AE_41D6_5E5CA427A0F8.label = 祝福語 BLESSING SENTENCES
 Button_25DAA32D_16B7_BBD4_4161_2EAB99103686.label = 祝福語 BLESSINGS
 Button_FF921778_CEFB_B06E_41B3_90C483DC59C2.label = 點燈 LIGHT UP
 Button_27CF2494_16B1_9EF4_41A2_EF6B99B1E3ED.label = 點燈 LIGHT UP
@@ -250,6 +255,7 @@ Button_27CF2494_16B1_9EF4_41A2_EF6B99B1E3ED.label = 點燈 LIGHT UP
 Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile_zh.jpg
 Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile.url = skin/Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile_zh.jpg
 Image_0EE0E210_16D2_95CC_4185_6C3FF249DA58.url = skin/Image_0EE0E210_16D2_95CC_4185_6C3FF249DA58_zh.jpg
+Image_1B3AC6EA_3AA4_05FD_41CC_EDC00150719F.url = skin/Image_1B3AC6EA_3AA4_05FD_41CC_EDC00150719F_zh.jpg
 Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile_zh.png
 Image_1B99DD00_16C4_0505_41B3_51F09727447A.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_zh.png
 Image_24BC4BFC_16B2_AA34_418C_B90137E13F06.url = skin/Image_24BC4BFC_16B2_AA34_418C_B90137E13F06_zh.jpg
@@ -258,8 +264,6 @@ Image_3B6501D9_16D1_967C_415D_DBCA023853CB.url = skin/Image_3B6501D9_16D1_967C_4
 Image_3D3908A8_16F2_B6DB_41AF_F1B0B2B904B3.url = skin/Image_3D3908A8_16F2_B6DB_41AF_F1B0B2B904B3_zh.jpg
 Image_D4982662_CEBE_F062_41E6_DE612BE6BD71.url = skin/Image_D4982662_CEBE_F062_41E6_DE612BE6BD71_zh.jpg
 Image_DF6AAD2B_CE99_71E2_41CC_63B5AA16C489.url = skin/Image_DF6AAD2B_CE99_71E2_41CC_63B5AA16C489_zh.jpg
-Image_FF531F25_CEF7_B1E6_41E4_97AF8F16C8E6.url = skin/Image_FF531F25_CEF7_B1E6_41E4_97AF8F16C8E6_zh.png
-Image_FFEA51F7_CEF9_F061_41B0_744CFD2019B6.url = skin/Image_FFEA51F7_CEF9_F061_41B0_744CFD2019B6_zh.jpg
 
 ### Label
 Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2_mobile.text =  Taichung Wanhe Temple
@@ -267,8 +271,8 @@ Label_0DD14F09_1744_0507_41AA_D8475423214A_mobile.text = 萬和宮
 Label_0DD14F09_1744_0507_41AA_D8475423214A.text = 萬和宮 Taichung Wanhe Temple
 
 ### Multiline Text
-HTMLText_EA4506F7_FDA0_5CF1_41C2_BF883C7259BF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.6099999999999985vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
-HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.760000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.6700000000000035vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vmin;font-family:'Bebas Neue Bold';">location</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.86vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.3900000000000023vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.39vmin;font-family:'Bebas Neue Bold';">address line 1</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.3900000000000023vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.39vmin;font-family:'Bebas Neue Bold';">address line 2</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.42vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.42vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac.</SPAN></SPAN></DIV></div>
+HTMLText_EA4506F7_FDA0_5CF1_41C2_BF883C7259BF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.76vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.670000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vmin;font-family:'Bebas Neue Bold';">location</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.86vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.3900000000000037vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.39vmin;font-family:'Bebas Neue Bold';">address line 1</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.3900000000000037vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.39vmin;font-family:'Bebas Neue Bold';">address line 2</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.42vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.42vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac.</SPAN></SPAN></DIV></div>
 HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.050000000000004vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:10.05vmin;font-family:'Bebas Neue Bold';">john doe</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.2299999999999995vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.23vmin;font-family:'Bebas Neue Bold';">licensed real estate salesperson</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.28vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.59vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">Tlf.: +11 111 111 111</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.59vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">jhondoe@realestate.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.59vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">www.loremipsum.com</SPAN></SPAN></DIV></div>
 
 ## Tour
